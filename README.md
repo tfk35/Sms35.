@@ -1,4 +1,4 @@
-
+```
 # SMS Bomber for Tr
 Coded By 35-KM
 
@@ -18,7 +18,7 @@ git clone https://github.com/35-KM/Sms35.git
 cd Sms35
 pip3 install -r requirements.txt
 python3 sms35.py
-```
+
 # Özellikler
 - Döngülü SMS Gönderici (sonsuz)
 - Birden Fazla Numara girişi (maksimum 5)
